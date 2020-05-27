@@ -11,7 +11,7 @@ Open-source machine-learning (Maxent) as the core algorithm. (From: https://biod
 Newer versions have been developed using mutli-model ensembles in R and Google Earth Engine.
 
 The 250 m spatial resolution version of Peru and Colombia deforestation risk using Maxent (version 1.0) are available here. 
-The 250 m spatial resolution version Peruvian Amazon deforestation risk using a multi-model ensemble in R (version 2.0) is now available.
+The 250 m spatial resolution version of Peruvian Amazon deforestation risk using a multi-model ensemble in R (version 2.0) is now available.
 
-Please contact bzutta@greenbluesolutions.com for higher resolution versions and frequent updates on deforestation risk and wildfire risk. 
-
+Please contact bzutta@greenbluesolutions.com for higher resolution versions (100 m and 30 m) and monthly updates on deforestation risk and wildfire risk. 
+www.greenbluesolutions.com
