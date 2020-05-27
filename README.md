@@ -3,7 +3,15 @@ Forest Loss and Wildfire Risk Assessment System using machine-learning (Thanks t
 
 Features: 
 Predictive risk assessment of Forest Loss and Wildfires in the Peruvian Amazon. 
-Options to use point data from Annual Forest Loss, Early Alert Data or FIRMS Point Fire location (historic or last 7 days).
+Options to use point data from offical Annual Forest Loss, Early Alert Data or FIRMS Point Fire location (historic or last 7 days).
 Output maps as tiff or jpg. 
 Input and output raters (maps) are 100 m spatial resolution. 
 Open-source machine-learning (Maxent) as the core algorithm. (From: https://biodiversityinformatics.amnh.org/open_source/maxent/) 
+
+Newer versions have been developed using mutli-model ensembles in R and Google Earth Engine.
+
+The 250 m spatial resolution version of Peru and Colombia deforestation risk using Maxent (version 1.0) are available here. 
+The 250 m spatial resolution version Peruvian Amazon deforestation risk using a multi-model ensemble in R (version 2.0) is now available.
+
+Please contact bzutta@greenbluesolutions.com for higher resolution versions and frequent updates on deforestation risk and wildfire risk. 
+
