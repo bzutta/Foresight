@@ -14,4 +14,4 @@ The 250 m spatial resolution version of Peru and Colombia deforestation risk usi
 The 250 m spatial resolution version of Peruvian Amazon deforestation risk using a multi-model ensemble in R (version 2.0) is now available.
 
 Please contact bzutta@greenbluesolutions.com for higher resolution versions (100 m and 30 m) and monthly updates on deforestation risk and wildfire risk. 
-www.greenbluesolutions.com
+Visit us at www.greenbluesolutions.com
